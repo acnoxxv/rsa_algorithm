@@ -3,6 +3,7 @@
 #include <math.h>
 
 int main(){
+    
 	using namespace std;
     //variabili
     int p=0, q=0, n=0, z=0, e=0, d=0, k=1, m=0;
